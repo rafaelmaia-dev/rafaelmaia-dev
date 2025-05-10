@@ -36,25 +36,18 @@
 
 ---
 
-## 💻 Technologies and Tools
+## 🖥️ Technologies and Tools
 
-### 🧠 Languages & Frameworks  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+### 🧠 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### ☁️ Databases & Cloud  
-<img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white"/>
+### ☁️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Dev & Testing  
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
+### 🛠️ Dev & Testing
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🖥️ Others  
-<img src="https://img.shields.io/badge/Artificial_Intelligence-808080?style=flat-square&logo=artificial-intelligence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnetomaiar&show_icons=true&the_
+### 💡 Others
+![AI](https://img.shields.io/badge/Artificial_Intelligence-808080?style=for-the-badge&logo=ai&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
