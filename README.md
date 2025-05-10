@@ -24,7 +24,6 @@
 ---
 
 ## 🎓 Education
-
 - **Information Systems** (FALS)
 
 ---
@@ -34,20 +33,20 @@
 - 🔗 [LinkedIn](https://linkedin.com/in/rafael-maia-508554232)
 - 📧 rafaelnetomaiar@gmail.com
 
----
+## 🛠️ Technologies and Tools
 
-## 🖥️ Technologies and Tools
+### 📌 Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### 🧠 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### ☁️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### ☁️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧪 Dev & Testing
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🛠️ Dev & Testing
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 💻 Operating Systems & Others
+![Artificial Intelligence](https://img.shields.io/badge/-AI-808080?style=flat-square&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-### 💡 Others
-![AI](https://img.shields.io/badge/Artificial_Intelligence-808080?style=for-the-badge&logo=ai&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
