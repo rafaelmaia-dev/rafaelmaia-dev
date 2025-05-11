@@ -1,48 +1,44 @@
-<h1 align="center">What's up guys! I'm Rafael Maia 👋</h1>
+<h1 align="center">What's up guys! I'm [Seu Nome Aqui] 👋</h1>
 
 ## 🧑‍💻 About Me
 
-🎓 I'm a **3rd semester Information Systems student** at FALS, focused on becoming a well-rounded developer.
+🎓 I'm a **3rd semester Information Systems student** at [Nome da sua faculdade], aiming to become a versatile and skilled developer.
 
 💡 Currently learning:
 - Artificial Intelligence (AI)
 - C++
 - Operating Systems
-- Python
-- MySQL
+- HTML, CSS & JavaScript
 
 🎯 Goals:
-- Improve my problem-solving skills
-- Build meaningful and practical projects
-- Grow as a developer in both backend and frontend technologies
+- Deepen my understanding of software development
+- Build solid and useful personal projects
+- Master both backend and frontend development
 
 📚 I'm passionate about:
-- Clean code and software architecture
-- Continuous learning and self-improvement
-- Exploring how AI and web development can work together
-
+- Clean, efficient code and scalable architecture
+- Lifelong learning and growth
+- Using tech (especially AI) to solve real-world problems
 
 ## 🎓 Education
-- **Information Systems** (FALS)
-
+- **Information Systems** ([Nome da sua faculdade])
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/rafael-maia-508554232)
-- 📧 rafaelnetomaiar@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin)
+- 📧 seuemail@email.com
 
 ## 🛠️ Technologies and Tools
 
 ### 🧠 Languages & Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 
 ### ☁️ Databases & Cloud
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
 
 ### 🧪 Dev & Testing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
