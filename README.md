@@ -32,26 +32,26 @@
 
 #### 🖥️ Languages & Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="37" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
 </p>
 
 #### ☁️ Databases & Cloud
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="37" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
 </p>
 
 #### 🧪 Dev & Testing
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="37" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="37" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
 </p>
 
 #### 💡 Others
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="37" />
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="37" title="Word"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="37" title="Excel"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="37" title="PowerPoint"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" />
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="45" title="Word"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="45" title="PowerPoint"/>
 </p>
