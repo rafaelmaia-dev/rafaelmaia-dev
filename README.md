@@ -1,38 +1,48 @@
-# What's up guys! I'm Rafael Maia
+# Hey there! I'm Rafael Maia
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 **Information Systems Student (3rd semester)**
+🎓 Information Systems Student (3rd semester)
 
-I'm currently studying Information Systems at FALS and building a solid foundation in both backend and frontend development. I'm passionate about clean code, good software architecture, and the endless possibilities of tech—especially when combining AI and web development.
+I'm an Information Systems student (FALS), focused on becoming a well-rounded developer. I'm currently learning and building projects that explore both backend and frontend technologies. I enjoy writing clean, maintainable code and diving deep into how things work—especially when it comes to AI and web development.
 
-I'm focused on learning and improving every day, always looking to build practical, meaningful projects that solve real problems.
+I'm passionate about continuous learning, solving real problems with tech, and collaborating on meaningful projects.
 
-## 💼 Current Focus
+---
+
+### 💼 Current Focus
+
 - 📚 Studying Artificial Intelligence, C++, Operating Systems, and MySQL
-- 🚀 Exploring both backend and frontend technologies
-- 🔍 Improving my problem-solving and coding skills
+- 💡 Improving problem-solving skills
+- 🔨 Building practical and impactful projects
 
-## 🎓 Education
-- 🎓 Information Systems - FALS (3rd semester)
+---
 
-## 🤝 Let's Connect:
+### 🎓 Education
+
+- 🎓 Information Systems (FALS)
+
+---
+
+### 📬 Let’s Connect:
+
 - 🔗 [LinkedIn](https://linkedin.com/in/rafael-maia-508554232)
-- 📫 Email: rafaelnetomaiar@gmail.com
+- 📧 Email: rafaelnetomaiar@gmail.com
 
 ---
 
 ## 🛠️ Technologies and Tools
 
-### 🖥️ Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+### 🧪 Languages & Frameworks  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 
-### ☁️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+### ☁️ Databases & Cloud  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
-### 🧪 Dev & Testing
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+### 🧪 Dev & Testing  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 
-### 🧠 Outros
-![Inteligência Artificial](https://img.shields.io/badge/Artificial_Intelligence-%23808080.svg?style=flat-square&logo=_)
+### 💡 Outros  
+<img src="https://img.shields.io/badge/Artificial_Intelligence-%23808080.svg?style=flat-square&logo=artificial-intelligence&logoColor=white" height="25"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
