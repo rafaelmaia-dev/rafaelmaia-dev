@@ -1,40 +1,45 @@
-# Hey there! I'm Rafael Maia
+<h2 align="center">Hey there! I'm Rafael Maia 👋</h2>
 
-## 🧑‍💻 About Me
+<p align="center">Information Systems Student (3rd semester) focused on becoming a well-rounded developer. Passionate about clean code, software architecture, and exploring how AI and web development can work together.</p>
 
-🎓 Information Systems Student (3rd semester)
+---
 
-I'm an Information Systems student (FALS), focused on becoming a well-rounded developer. I'm currently learning and building projects that explore both backend and frontend technologies. I enjoy writing clean, maintainable code and diving deep into how things work—especially when it comes to AI and web development.
+### 💼 Current Focus
+- Artificial Intelligence (AI)  
+- C++  
+- Operating Systems  
+- MySQL  
+- Python  
 
-I'm passionate about continuous learning, solving real problems with tech, and collaborating on meaningful projects.
+### 🎓 Education
+- Information Systems - FALS
 
-## 💼 Current Focus
+### 📫 Let's Connect
+- <a href="https://linkedin.com/in/rafael-maia-508554232" target="_blank">LinkedIn</a>  
+- <a href="mailto:rafaelnetomaiar@gmail.com">rafaelnetomaiar@gmail.com</a>
 
-- 📚 Studying Artificial Intelligence, C++, Operating Systems, and MySQL  
-- 💡 Improving problem-solving skills  
-- 🔨 Building practical and impactful projects  
+---
 
-## 🎓 Education
+### 🛠️ Technologies and Tools
 
-- 🎓 Information Systems (FALS)
+#### 🖥️ Languages & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
+</p>
 
-## 📬 Let’s Connect
+#### ☁️ Databases & Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
+</p>
 
-- 🔗 [LinkedIn](https://linkedin.com/in/rafael-maia-508554232)  
-- 📧 Email: rafaelnetomaiar@gmail.com
+#### 🧪 Dev & Testing
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
+</p>
 
-## 🛠️ Technologies and Tools
-
-### 🖥️ Languages & Frameworks  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-
-### ☁️ Databases & Cloud  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
-### 🧪 Dev & Testing  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-
-### 💡 Outros  
-<img src="https://img.shields.io/badge/Artificial_Intelligence-%23808080.svg?style=flat-square&logo=artificial-intelligence&logoColor=white" height="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
+#### 💡 Others
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-%23808080.svg?style=flat-square&logo=artificial-intelligence&logoColor=white" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35" />
+</p>
