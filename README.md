@@ -20,9 +20,11 @@
 ### 🎓 Education
 - 🎓 Information Systems - FALS
 
-### 📫 Let's Connect
-- <a href="https://linkedin.com/in/rafael-maia-508554232" target="_blank">LinkedIn</a>  
-- <a href="mailto:rafaelnetomaiar@gmail.com">rafaelnetomaiar@gmail.com</a>
+### 💬 Let's Connect:
+
+- 🔗 **LinkedIn**: [https://linkedin.com/in/rafael-maia-508554232](https://linkedin.com/in/rafael-maia-508554232)
+- 📧 **E-mail**: [rafaelnetomaiar@gmail.com](mailto:rafaelnetomaiar@gmail.com)
+
 
 ---
 
