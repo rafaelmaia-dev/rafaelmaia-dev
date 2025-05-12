@@ -36,5 +36,5 @@ I'm passionate about continuous learning, solving real problems with tech, and c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 
 ### 💡 Outros  
-<img src="https://img.shields.io/badge/Artificial_Intelligence-%23808080.svg?style=flat-square&logo=artificial-intelligence&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-%23808080.svg?style=flat-square&logo=artificial-intelligence&logoColor=white" height="25"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
