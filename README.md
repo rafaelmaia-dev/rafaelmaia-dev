@@ -1,5 +1,9 @@
 <h2 align="center">What's up guys! I'm Rafael Maia 👋</h2>
 
+## 👨‍💻 About Me
+
+> Back-end Developer
+
 <p align="center">I'm a third-semester Information Systems student passionate about technology, learning, and building useful things. <br>
   Currently focused on improving my skills in software development, especially in Artificial Intelligence, backend technologies, and clean code practices.
   I enjoy solving problems, working on real-world projects, and always pushing myself to understand how things work behind the scenes.</p>
@@ -42,6 +46,8 @@
 
 #### 💡 Others
 <p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-%23808080.svg?style=flat-square&logo=artificial-intelligence&logoColor=white" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35" />
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="35" title="Word"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="35" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="35" title="PowerPoint"/>
 </p>
