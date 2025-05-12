@@ -1,6 +1,8 @@
-<h2 align="center">Hey there! I'm Rafael Maia 👋</h2>
+<h2 align="center">What's up guys! I'm Rafael Maia 👋</h2>
 
-<p align="center">Information Systems Student (3rd semester) focused on becoming a well-rounded developer. Passionate about clean code, software architecture, and exploring how AI and web development can work together.</p>
+<p align="center">I'm a third-semester Information Systems student passionate about technology, learning, and building useful things. <br>
+  Currently focused on improving my skills in software development, especially in Artificial Intelligence, backend technologies, and clean code practices.
+  I enjoy solving problems, working on real-world projects, and always pushing myself to understand how things work behind the scenes.</p>
 
 ---
 
@@ -12,7 +14,7 @@
 - Python  
 
 ### 🎓 Education
-- Information Systems - FALS
+- 🎓 Information Systems - FALS
 
 ### 📫 Let's Connect
 - <a href="https://linkedin.com/in/rafael-maia-508554232" target="_blank">LinkedIn</a>  
