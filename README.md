@@ -15,7 +15,8 @@
 - C++  
 - Operating Systems  
 - MySQL  
-- Python  
+- Python
+- Power BI
 
 ### 🎓 Education
 - 🎓 Information Systems - FALS
@@ -54,5 +55,5 @@
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="45" title="Word"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" title="Excel"/>
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="45" title="PowerPoint"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power%20BI.png" width="45" title="Power BI"/>
+  
 </p>
