@@ -54,5 +54,5 @@
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="45" title="Word"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" title="Excel"/>
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="45" title="PowerPoint"/>
-  <img src="/mnt/data/72b9d17b-03f4-4902-be1f-dac3eaba4c23.png" width="45" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" title="Power BI"/>
 </p>
