@@ -12,8 +12,7 @@
 
 ### 💼 Current Focus
 - Artificial Intelligence (AI)  
-- C++  
-- Operating Systems  
+- C++   
 - MySQL  
 - Python
 - Power BI
