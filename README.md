@@ -4,7 +4,7 @@
 
 > Back-end Developer
 
-<p align="center">I'm a third-semester Information Systems student passionate about technology, learning, and building useful things. <br>
+<p align="center">I'm a fourth-semester Information Systems student passionate about technology, learning, and building useful things. <br>
   Currently focused on improving my skills in software development, especially in Artificial Intelligence, backend technologies, and clean code practices.
   I enjoy solving problems, working on real-world projects, and always pushing myself to understand how things work behind the scenes.</p>
 
