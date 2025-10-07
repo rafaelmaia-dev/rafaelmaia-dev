@@ -1,6 +1,6 @@
 ***<h1 align="center">Eae pessoal! Eu sou o Rafael Maia 👋</h1>***
 
-## 👨‍💻 Sobre mim
+***## 👨‍💻 Sobre mim***
 
 > Desenvolvedor Back-end
 
