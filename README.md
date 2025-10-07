@@ -8,7 +8,7 @@
 
 ---
 
-### 💼 Ferramentas de trabalho:
+***### 💼 Ferramentas de trabalho:***
 - Inteligência Artificial (IA)
 - C++   
 - MySQL  
