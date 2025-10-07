@@ -1,4 +1,4 @@
-<h2 align="center">Eae pessoal! Eu sou o Rafael Maia 👋</h2>
+<h1 align="center">Eae pessoal! Eu sou o Rafael Maia 👋</h1>
 
 ## 👨‍💻 Sobre mim
 
