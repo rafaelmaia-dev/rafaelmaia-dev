@@ -36,22 +36,17 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnetomaia&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnetomaia&layout=compact&langs_count=7&theme=radical" />
+#### 🧪 Dev e Teste
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
 </p>
+
 
 ---
 
-### 🌐 Onde me encontrar
+### 💬 Bora conectar:
 
-<p align="center">
-  <a href="https://linkedin.com/in/rafael-maia-508554232" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rafaelnetomaiar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- 🔗 *LinkedIn*: [https://linkedin.com/in/rafael-maia-508554232](https://linkedin.com/in/rafael-maia-508554232)
+- 📧 *E-mail*: [rafaelnetomaiar@gmail.com](mailto:rafaelnetomaiar@gmail.com)
