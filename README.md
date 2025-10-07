@@ -1,10 +1,10 @@
-*<h2 align="center">Eae pessoal! Eu sou o Rafael Maia 👋</h2>*
+*<h1 align="center">Eae pessoal! Eu sou o Rafael Maia 👋</h1>*
 
 ## 👨‍💻 Sobre mim
 
 > Desenvolvedor Back-end
 
-*<p align="center">Sou um estudande de Sistemas de Informação e estou no quarto semestre. Tenho paixão em resolver problemas de forma lógica e funcional, lidando com tecnologia e desenvolvendo o back-end da aplicação. Atualmente estudo linguagens como Python e automação com o mesmo. Busco iniciar meu primeiro estágio na área desenvolvendo softwares e automatizando tarefas.</p>*
+***<p align="center">Sou um estudande de Sistemas de Informação e estou no quarto semestre. Tenho paixão em resolver problemas de forma lógica e funcional, lidando com tecnologia e desenvolvendo o back-end da aplicação. Atualmente estudo linguagens como Python e automação com o mesmo. Busco iniciar meu primeiro estágio na área desenvolvendo softwares e automatizando tarefas.</p>***
 
 ---
 
