@@ -10,15 +10,15 @@
 
 ***💼 Ferramentas de trabalho:***
 
-- ***Inteligência Artificial (IA)*** <img src="https://img.icons8.com/ios-filled/50/00ADB5/artificial-intelligence.png" width="27"/> 
-- ***MySQL*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="27"/>
+- ***Inteligência Artificial (IA)*** <img src="https://img.icons8.com/ios-filled/50/00ADB5/artificial-intelligence.png" width="29"/> 
+- ***MySQL*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="29"/>
 
 ---
 
 ***💻 Línguagens De Programação***
 
-- ***Python*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="27"/>
-- ***C++*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="27"/>
+- ***Python*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="29"/>
+- ***C++*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="29"/>
 
 ---
 
