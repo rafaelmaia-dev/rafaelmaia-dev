@@ -8,13 +8,11 @@
 
 ---
 
-***💼 Ferramentas de trabalho:***
+### 💼 Ferramentas de trabalho:
 
-***Inteligência Artificial (IA)***
-***C++***   
-***MySQL***             
-***Python***
-
+- 🤖 **Inteligência Artificial (IA)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> **C++**
+- 🗄️ **MySQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
+- 🐍 **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
 
 ---
 
