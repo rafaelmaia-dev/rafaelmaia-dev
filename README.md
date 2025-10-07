@@ -12,10 +12,10 @@
 
 ***- Inteligência Artificial (IA)***
 ***- C++***   
-***- MySQL***  
+***- MySQL***
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
 ***- Python***
-***- Power BI***
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 ---
 
 ***🎓 Educação***
