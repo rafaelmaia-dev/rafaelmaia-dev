@@ -10,10 +10,10 @@
 
 ***💼 Ferramentas de trabalho:***
 
-***- Inteligência Artificial (IA)***
-***- C++***   
-***- MySQL***             
-***- Python***
+***Inteligência Artificial (IA)***
+***C++***   
+***MySQL***             
+***Python***
 
 
 ---
