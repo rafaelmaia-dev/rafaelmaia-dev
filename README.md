@@ -8,7 +8,7 @@
 
 ---
 
-***### 💼 Ferramentas de trabalho:***
+***💼 Ferramentas de trabalho:***
 
 ***- Inteligência Artificial (IA)***
 ***- C++***   
@@ -16,9 +16,11 @@
 ***- Python***
 ***- Power BI***
 
-***###🎓 Educação***
+---
 
-***- 🎓 Sistemas de Informação - FALS***
+***🎓 Educação***
+
+***🎓 Sistemas de Informação - FALS***
 
 ### 💬 Bora conectar:
 
