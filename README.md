@@ -9,11 +9,11 @@
 ---
 
 ***### 💼 Ferramentas de trabalho:***
-- Inteligência Artificial (IA)
-- C++   
-- MySQL  
-- Python
-- Power BI
+***- Inteligência Artificial (IA)***
+***- C++***   
+***- MySQL***  
+***- Python***
+***- Power BI***
 
 ### 🎓 Educação
 - 🎓 Sistemas de Informação - FALS
