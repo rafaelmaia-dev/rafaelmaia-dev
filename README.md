@@ -13,7 +13,7 @@
 ***- Inteligência Artificial (IA)***
 ***- C++***   
 ***- MySQL**              
-***Python***
+***- Python***
 
 
 ---
