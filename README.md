@@ -11,11 +11,14 @@
 ***💼 Ferramentas de trabalho:***
 
 - ***Inteligência Artificial (IA)*** <img src="https://img.icons8.com/ios-filled/50/00ADB5/artificial-intelligence.png" width="27"/> 
-- ***C++*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> 
 - ***MySQL*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-- ***Python*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
 
 ---
+
+***💻 Línguagens De Programação***
+
+- ***Python*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+- ***C++*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> 
 
 ***🎓 Educação***
 
@@ -30,12 +33,14 @@
 
 ---
 
-***🧪 Dev e Teste***
+***🧪 Tecnologias de Conhecimento***
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
 </p>
+
+---
 
 ***💡Outros***
 <p>
