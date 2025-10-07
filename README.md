@@ -18,7 +18,9 @@
 ***💻 Línguagens De Programação***
 
 - ***Python*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-- ***C++*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> 
+- ***C++*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
+
+---
 
 ***🎓 Educação***
 
@@ -33,7 +35,7 @@
 
 ---
 
-***🧪 Tecnologias de Conhecimento***
+***🧪 Tecnologias Úteis***
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
@@ -42,7 +44,7 @@
 
 ---
 
-***💡Outros***
+***💡Outras Ferramentas***
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" />
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="45" title="Word"/>
