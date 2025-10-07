@@ -10,7 +10,7 @@
 
 ***💼 Ferramentas de trabalho:***
 
-- ***Inteligência Artificial (IA)*** <img src="https://img.icons8.com/ios-filled/50/00ADB5/artificial-intelligence.png" width="30"/> 
+- ***Inteligência Artificial (IA)*** <img src="https://img.icons8.com/ios-filled/50/00ADB5/artificial-intelligence.png" width="27"/> 
 - ***C++*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> 
 - ***MySQL*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
 - ***Python*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
@@ -21,35 +21,23 @@
 
 ***🎓 Sistemas de Informação - FALS***
 
-### 💬 Bora conectar:
+---
+
+***💬 Bora conectar:***
 
 - 🔗 *LinkedIn*: [https://linkedin.com/in/rafael-maia-508554232](https://linkedin.com/in/rafael-maia-508554232)
 - 📧 *E-mail*: [rafaelnetomaiar@gmail.com](mailto:rafaelnetomaiar@gmail.com)
 
-
 ---
 
-### 🛠 Tecnologias e Ferramentas
-
-#### 🖥 Línguagens e Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
-</p>
-
-#### ☁ Banco de Dados e Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-</p>
-
-#### 🧪 Dev e Teste
+***🧪 Dev e Teste***
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
 </p>
 
-#### 💡Outros
+***💡Outros***
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" />
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="45" title="Word"/>
