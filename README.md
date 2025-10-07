@@ -1,6 +1,6 @@
 ***<h1 align="center">Eae pessoal! Eu sou o Rafael Maia 👋</h1>***
 
-***## 👨‍💻 Sobre mim***
+***👨‍💻 Sobre mim***
 
 > Desenvolvedor Back-end
 
@@ -8,7 +8,7 @@
 
 ---
 
-***### 💼 Ferramentas de trabalho:***
+***💼 Ferramentas de trabalho:***
 
 ***- Inteligência Artificial (IA)***
 ***- C++***   
@@ -16,8 +16,8 @@
 ***- Python***
 ***- Power BI***
 
-### 🎓 Educação
-- 🎓 Sistemas de Informação - FALS
+***🎓 Educação***
+***- 🎓 Sistemas de Informação - FALS***
 
 ### 💬 Bora conectar:
 
