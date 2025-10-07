@@ -13,7 +13,7 @@
 ***- Inteligência Artificial (IA)***
 ***- C++***   
 ***- MySQL***               
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> **Python**
 
 
 ---
