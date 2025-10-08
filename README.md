@@ -45,7 +45,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
-  <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="49" />
+  <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="50" />
 </p>
 
 ---
