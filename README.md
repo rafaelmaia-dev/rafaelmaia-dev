@@ -10,7 +10,7 @@
 
 ***💼 Ferramentas de trabalho:***
 
-- ***Inteligência Artificial (IA)***  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="29"/> <img src= "https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" width="29" />
+- ***Inteligência Artificial (IA)***  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="29"/>   <img src= "https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" width="29" />
 - ***MySQL*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="29" />
 
 ---
