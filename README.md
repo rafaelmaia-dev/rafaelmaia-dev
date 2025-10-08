@@ -45,7 +45,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="45" title="GitHub" />
+  <img src="https://www.flaticon.com/free-icon/github_1051326?term=github&page=1&position=7&origin=tag&related_id=1051326" width="45" />
 </p>
 
 ---
