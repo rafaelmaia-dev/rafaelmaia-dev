@@ -10,7 +10,7 @@
 
 ***💼 Ferramentas de trabalho:***
 
-- ***Inteligência Artificial (IA)***  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="29"/>   <img src= "https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" width="29" />
+- ***Inteligência Artificial (IA)***  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="29"/> <img src= "https://img.icons8.com/?size=100&id=j9OyN6SjuGXi&format=png&color=000000" width="29" />
 - ***MySQL*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="29" />
 
 ---
@@ -45,7 +45,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="filter: brightness(2.5) contrast(2.2); border: 2px solid #0366d6; border-radius: 8px;" >
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="45" />
 </p>
 
 ---
