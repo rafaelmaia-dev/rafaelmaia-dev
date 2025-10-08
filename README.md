@@ -28,6 +28,12 @@
 
 ---
 
+***🖥️ Projetos Pessoais***
+
+***- [API utilizando o site do Google](link-do-repo) — Script que pede uma requisição GET através de um link.***
+
+---
+
 ***💬 Bora conectar:***
 
 - 🔗 *LinkedIn*: [https://linkedin.com/in/rafael-maia-508554232](https://linkedin.com/in/rafael-maia-508554232)
@@ -52,3 +58,11 @@
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="45" title="PowerPoint"/>
   
 </p>
+
+---
+
+***📊 GitHub Stats***
+
+<img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" />
+
+
