@@ -41,7 +41,7 @@
 
 ---
 
-***🧪 Editor e GitHub***
+***🧪 Tecnologias Auxiliares***
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
