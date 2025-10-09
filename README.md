@@ -41,7 +41,7 @@
 
 ---
 
-***🧪 Tecnologias Úteis***
+***🧪 Editor e GitHub***
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
@@ -50,7 +50,7 @@
 
 ---
 
-***💡Outras Ferramentas***
+***💡Pacote Office Intermediário***
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" />
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="45" title="Word"/>
