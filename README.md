@@ -30,7 +30,7 @@
 
 ***🖥️ Projetos Pessoais***
 
-***- [API utilizando o site do Google]([link-do-repo](https://github.com/rafaelmaia-dev/api-google)) — Script que pede uma requisição GET através de um link.***
+***- [API utilizando o site do Google]([link-do-repo](https://github.com/rafaelmaia-dev/api-google)]) — Script que pede uma requisição GET através de um link.***
 
 ---
 
