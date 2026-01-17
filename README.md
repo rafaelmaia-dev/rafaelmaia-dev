@@ -1,47 +1,47 @@
 **<h1 align="center">Eae pessoal! Eu sou o Rafael Maia 👋</h1>**
 
-***👨‍💻 Sobre mim***
+**👨‍💻 Sobre mim**
 
 > Desenvolvedor Back-end
 
-***<p align="center">Sou um estudande de Sistemas de Informação e estou no quarto semestre. Tenho paixão em resolver problemas de forma lógica e funcional, usando tecnologia e desenvolvendo o back-end da aplicação. Atualmente estudo linguagens como Python e automação com o mesmo. Busco iniciar meu primeiro estágio na área desenvolvendo softwares e automatizando tarefas.</p>***
+**<p align="center">Sou um estudande de Sistemas de Informação e estou no quarto semestre. Tenho paixão em resolver problemas de forma lógica e funcional, usando tecnologia e desenvolvendo o back-end da aplicação. Atualmente estudo linguagens como Python e automação com o mesmo. Busco iniciar meu primeiro estágio na área desenvolvendo softwares e automatizando tarefas.</p>**
 
 ---
 
-***💼 Ferramentas de trabalho:***
+**💼 Ferramentas de trabalho:**
 
-- ***Inteligência Artificial (IA)***  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="29"/> <img src= "https://img.icons8.com/?size=100&id=j9OyN6SjuGXi&format=png&color=000000" width="29" />
-- ***MySQL*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="29" />
-
----
-
-***💻 Línguagens De Programação***
-
-- ***Python*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="29"/>
-- ***C++*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="29"/>
+- **Inteligência Artificial (IA)**  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="29"/> <img src= "https://img.icons8.com/?size=100&id=j9OyN6SjuGXi&format=png&color=000000" width="29" />
+- **MySQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="29" />
 
 ---
 
-***🎓 Educação***
+**💻 Línguagens De Programação**
 
-***🎓 Sistemas de Informação - FALS***
-
----
-
-***🖥️ Projetos Pessoais***
-
-***- [API utilizando o site do Google](https://github.com/rafaelmaia-dev/api-google) — Script que pede uma requisição GET através de um link.***
+- **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="29"/>
+- **C++** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="29"/>
 
 ---
 
-***💬 Bora conectar:***
+**🎓 Educação**
+
+**🎓 Sistemas de Informação - FALS**
+
+---
+
+**🖥️ Projetos Pessoais**
+
+**- [API utilizando o site do Google](https://github.com/rafaelmaia-dev/api-google) — Script que pede uma requisição GET através de um link.**
+
+---
+
+**💬 Bora conectar:**
 
 - 🔗 *LinkedIn*: [https://linkedin.com/in/rafael-maia-508554232](https://linkedin.com/in/rafael-maia-508554232)
 - 📧 *E-mail*: [rafaelnetomaiar@gmail.com](mailto:rafaelnetomaiar@gmail.com)
 
 ---
 
-***🧪 Tecnologias Auxiliares***
+**🧪 Tecnologias Auxiliares**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
@@ -50,7 +50,7 @@
 
 ---
 
-***💡Pacote Office Intermediário***
+**💡Pacote Office Intermediário**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" />
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="45" title="Word"/>
@@ -61,7 +61,7 @@
 
 ---
 
-***📊 GitHub Stats***
+**📊 GitHub Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=rafaelmaia-dev&show_icons=true&theme=tokyonight" />
 
