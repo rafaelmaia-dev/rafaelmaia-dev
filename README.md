@@ -31,6 +31,7 @@
 **🖥️ Projetos Pessoais**
 
 **- [API utilizando o site do Google](https://github.com/rafaelmaia-dev/api-google) — Script que pede uma requisição GET através de um link.**
+
 **- [Calculadora de operadores aritméticos](https://github.com/rafaelmaia-dev/calculadora-while) — Mini projeto que pede ao usuário a opção de escolha dos quatro operadores aritméticos da matemática.** 
 
 ---
