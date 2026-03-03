@@ -10,25 +10,25 @@ Atuo como Desenvolvedor Back-end em formação, com foco em lógica, automação
 
 Sou estudante de Sistemas de Informação (4º semestre) e tenho paixão por resolver problemas utilizando tecnologia e desenvolvimento back-end.
 
-Atualmente estudo linguagens como Python e automação com o mesmo.
+Atualmente estudo Python, Java e automação.
 
 Busco iniciar meu primeiro estágio na área desenvolvendo softwares e automatizando tarefas.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Enterprise Tech Stack
 
-Um conjunto focado em desenvolvimento back-end, banco de dados e automação.
+Um conjunto organizado para desenvolvimento, banco de dados e containerização.
 
-| Domínio | Stack & Ferramentas |
-|----------|---------------------|
-| Backend & Core | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| Front-end | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| Banco de Dados | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| DevOps & Containers | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| Inteligência Artificial | ![OpenAI](https://img.shields.io/badge/IA-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| Ferramentas | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| Office (Intermediário) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white) |
+| Domínio | Stack |
+|----------|--------|
+| **Backend & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Front-end** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **DevOps & Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **AI & Automation** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| **Tools** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Office (Intermediário)** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) |
 
 ---
 
@@ -41,14 +41,14 @@ Sistemas de Informação — FALS
 ## 📂 Projetos Pessoais
 
 ### 🔹 API utilizando o site do Google  
-Script que pede uma requisição GET através de um link.
+Script que realiza requisição GET através de um link.
 
 ### 🔹 Calculadora utilizando while  
-Mini projeto que pede ao usuário a opção de escolha dos quatro operadores aritméticos da matemática.
+Mini projeto onde o usuário escolhe entre os quatro operadores aritméticos.
 
 ---
 
 ## 🤝 Conecte-se comigo
 
-- LinkedIn: https://linkedin.com/in/rafael-maia-508554232
-- E-mail: rafaelenetomaia@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/rafael-maia-508554232  
+- 📧 E-mail: rafaelenetomaia@gmail.com
