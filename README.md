@@ -20,7 +20,7 @@
 
 </div>
 
-## 👾 whoami
+## 👾 Um resumo sobre mim
 
 ```
   → Rafael Maia | Desenvolvedor Back-end em Formação
@@ -38,7 +38,7 @@
  █
 ```
 
----
+
 
 ## ⚡ Em Números
 
@@ -51,7 +51,7 @@
 
 </div>
 
----
+
 
 ## 💼 Diferenciais
 
