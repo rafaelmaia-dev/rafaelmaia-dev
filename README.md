@@ -1,53 +1,191 @@
-# 👋 Eae pessoal! Eu sou o Rafael Maia
+```markdown
+<div align="center">
 
-> "Code is about solving problems. Whatever they are."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Rafael%20Maia&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Back-end%20Developer%20in%20Progress%20🚀&descAlignY=58&descSize=18" width="100%"/>
 
----
+<br/>
 
-## 🚀 Professional Profile
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+em+Forma%C3%A7%C3%A3o;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+5%C2%BA+Sem;Apaixonado+por+Python+%2B+Java+%2B+Automa%C3%A7%C3%A3o;%22Code+is+about+solving+problems.%22)](https://git.io/typing-svg)
 
-Atuo como Desenvolvedor Back-end em formação, com foco em lógica, automação e desenvolvimento funcional de aplicações.
+<br/>
 
-Sou estudante de Sistemas de Informação (5º semestre) e tenho paixão por resolver problemas utilizando tecnologia e desenvolvimento back-end.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-maia-508554232)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelenetomaia@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
 
-Atualmente estudo Python, Java e automação.
-
-Busco iniciar meu primeiro estágio na área desenvolvendo softwares e automatizando tarefas.
-
----
-
-## 🛠 Enterprise Tech Stack
-
-Um conjunto organizado para desenvolvimento, banco de dados e containerização.
-
-| Domínio | Stack |
-|----------|--------|
-| **Backend & Core** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/> |
-| **Front-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> |
-| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> |
-| **DevOps & Containers** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/> |
-| **AI & Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/> |
-| **Office (Intermediário)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30"/> <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" height="30"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="30"/> <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="30"/> |
+</div>
 
 ---
 
-## 🎓 Educação
+## 👨‍💻 Sobre Mim
 
-Sistemas de Informação — FALS
+```python
+class RafaelMaia:
+    def __init__(self):
+        self.nome        = "Rafael Maia"
+        self.role        = "Back-end Developer (em formação)"
+        self.educacao    = "Sistemas de Informação — FALS (5º Semestre)"
+        self.foco        = ["Python", "Java", "Automação", "APIs"]
+        self.objetivo    = "Primeiro estágio em Desenvolvimento de Software"
+        self.frase       = "Code is about solving problems. Whatever they are."
+
+    def status(self):
+        return "🚀 Aberto para oportunidades de estágio!"
+
+rafael = RafaelMaia()
+print(rafael.status())
+```
+
+> 🎯 Busco meu **primeiro estágio** na área de desenvolvimento, com foco em automação e back-end.
+> Tenho paixão por resolver problemas reais com código limpo e eficiente.
 
 ---
 
-## 📂 Projetos Pessoais
+## 🛠️ Tech Stack
 
-### 🔹 API utilizando o site do Google  
-Script que realiza requisição GET através de um link.
+### 🔵 Back-end & Linguagens
 
-### 🔹 Calculadora utilizando while  
-Mini projeto onde o usuário escolhe entre os quatro operadores aritméticos.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/>
+</p>
+
+### 🌐 Front-end
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+</p>
+
+### 🗄️ Bancos de Dados
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
+</p>
+
+### ⚙️ DevOps & Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
+</p>
+
+### 🤖 IA & Produtividade
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="50" height="50" title="OpenAI"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" height="50" title="Excel"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="50" height="50" title="Word"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="50" height="50" title="PowerPoint"/>
+</p>
 
 ---
 
-## 🤝 Conecte-se comigo
+## 📂 Projetos em Destaque
 
-- 💼 LinkedIn: https://linkedin.com/in/rafael-maia-508554232  
-- 📧 E-mail: rafaelenetomaia@gmail.com
+<div align="center">
+
+| 🔹 Projeto | 📝 Descrição | 🛠️ Tecnologia |
+|-----------|-------------|--------------|
+| **API Google** | Script com requisição GET via link — simulando integração com APIs externas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Calculadora CLI** | Aplicação de terminal com menu interativo para operações aritméticas usando `while` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎓 Educação & Formação
+
+<div align="left">
+
+```
+🏫  FALS — Faculdade de Leme
+📚  Sistemas de Informação
+📅  5º Semestre | Em andamento
+```
+
+</div>
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 📬 Contato
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/-rafael--maia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-maia-508554232)
+[![Gmail](https://img.shields.io/badge/-rafaelenetomaia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelenetomaia@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
+
+</div>
+```
+
+---
+
+## ✅ O que foi melhorado
+
+Aqui está um resumo de tudo que foi aprimorado em relação ao README original:
+
+**🎨 Visual**
+- Banner animado no topo e rodapé com gradiente roxo/índigo via `capsule-render`
+- Texto digitando animado com `readme-typing-svg`
+- Ícones reorganizados com `<p align="left">` — todos lado a lado e bem espaçados com `&nbsp;`
+
+**📊 Conteúdo novo**
+- Bloco de código Python estilizado simulando uma "classe pessoal" — muito usado em READMEs modernos
+- **GitHub Stats**, **Top Languages** e **GitHub Streak** automáticos
+- Seção *"Atualmente Aprendendo"* com badges coloridos
+- Tabela de projetos mais estruturada e com badges de tecnologia
+
+**🔗 Badges profissionais**
+- LinkedIn, Gmail e GitHub como botões clicáveis no topo
+- Badges de tecnologia nos projetos
+
+> ⚠️ **Importante:** Substitua todos os `SEU_USUARIO` pelo seu nome de usuário real do GitHub para que as estatísticas funcionem corretamente!
