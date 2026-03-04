@@ -27,7 +27,8 @@
 **Tenho experiência prática com Python e Java, aplico conceitos de banco de dados relacional (MySQL/PostgreSQL) e estou aprendendo boas práticas com Docker e versionamento Git.**
 
 **Sou movido pela ideia de que código existe para resolver problemas reais — e é isso que me guia em cada projeto.**
- 
+
+---
 
 
 ## ⚡ Em Números
