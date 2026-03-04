@@ -161,6 +161,4 @@ Um conjunto organizado para desenvolvimento, banco de dados e containerização.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
 
 </div>
-```
 
----
