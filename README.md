@@ -20,6 +20,59 @@
 
 </div>
 
+## 👾 whoami
+
+```bash
+rafael@dev:~$ whoami
+  → Rafael Maia | Desenvolvedor Back-end em Formação
+
+rafael@dev:~$ cat sobre.txt
+  → Estudante de Sistemas de Informação (5º semestre) na FALS
+  → Foco em lógica, automação e desenvolvimento de APIs
+  → Apaixonado por transformar problemas reais em soluções de código
+
+rafael@dev:~$ cat stack.txt
+  → Linguagens  : Python · Java · C++
+  → Banco dados : MySQL · PostgreSQL
+  → DevOps      : Docker · Git · GitHub
+  → Front       : HTML · CSS
+
+rafael@dev:~$ echo $OBJETIVO
+  → Ingressar no mercado como estagiário Back-end e crescer com propósito
+
+rafael@dev:~$ █
+```
+
+---
+
+## ⚡ Em Números
+
+<div align="center">
+
+| 🎓 | 🛠️ | 📂 | 🌱 |
+|:---:|:---:|:---:|:---:|
+| **5°** | **4+** | **2** | **4** |
+| Semestres cursados | Tecnologias dominadas | Projetos no GitHub | Tecnologias aprendendo |
+
+</div>
+
+---
+
+## 💼 Diferenciais
+
+<div align="center">
+
+![Raciocínio Lógico](https://img.shields.io/badge/🧠%20Raciocínio%20Lógico-forte-4F46E5?style=flat-square)
+![Aprendizado Rápido](https://img.shields.io/badge/⚡%20Aprendizado%20Rápido-constante-7C3AED?style=flat-square)
+![Resolução de Problemas](https://img.shields.io/badge/🔧%20Resolução%20de%20Problemas-foco%20principal-4F46E5?style=flat-square)
+![Autodidata](https://img.shields.io/badge/📚%20Autodidata-ativo-7C3AED?style=flat-square)
+![Colaboração](https://img.shields.io/badge/🤝%20Colaboração-trabalho%20em%20equipe-4F46E5?style=flat-square)
+![Atenção a Detalhes](https://img.shields.io/badge/🔍%20Atenção%20a%20Detalhes-alta-7C3AED?style=flat-square)
+
+</div>
+
+---
+
 > 🎯 Busco meu **primeiro estágio** na área de desenvolvimento, com foco em automação e back-end.  
 > Tenho paixão por resolver problemas reais com código limpo e eficiente.
 
