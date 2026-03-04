@@ -75,7 +75,7 @@ Um conjunto organizado para desenvolvimento, banco de dados e containerização.
 | **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/> |
 | **DevOps & Containers** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/> |
 | **Sistemas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="35" />        
-| **AI & Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/> <img src="https://github.com/rafaelmaia-dev/rafaelmaia-dev/blob/main/assets/icons8-github-64(2).png" height="45"/> |
+| **AI & Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/> <img src="https://github.com/rafaelmaia-dev/rafaelmaia-dev/blob/main/assets/icons8-github-64(2).png" height="50"/> |
 | **Office (Intermediário)** | <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" height="40" title="Word"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" title="Excel"/> <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="40" title="PowerPoint"/> |
 
 ---
