@@ -88,13 +88,6 @@ Um conjunto organizado para desenvolvimento, banco de dados e containerização.
 
 ---
 
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-rafael--maia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-maia-508554232)
-[![Gmail](https://img.shields.io/badge/-rafaelenetomaia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelenetomaia@gmail.com)
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
