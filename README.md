@@ -8,7 +8,7 @@
 
 Atuo como Desenvolvedor Back-end em formação, com foco em lógica, automação e desenvolvimento funcional de aplicações.
 
-Sou estudante de Sistemas de Informação (4º semestre) e tenho paixão por resolver problemas utilizando tecnologia e desenvolvimento back-end.
+Sou estudante de Sistemas de Informação (5º semestre) e tenho paixão por resolver problemas utilizando tecnologia e desenvolvimento back-end.
 
 Atualmente estudo Python, Java e automação.
 
@@ -22,7 +22,7 @@ Um conjunto organizado para desenvolvimento, banco de dados e containerização.
 
 | Domínio | Stack |
 |----------|--------|
-| **Backend & Core** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="file:///C:/Users/Micro/Downloads/icons8-java(1).svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> |
+| **Backend & Core** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="./assets/java.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> |
 | **Front-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28"/> |
 | **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28"/> |
 | **DevOps & Containers** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28"/> |
