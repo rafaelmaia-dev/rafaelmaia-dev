@@ -22,16 +22,12 @@
 
 ##  💡 Quem sou eu?
 
-```
+**Sou Rafael Maia, desenvolvedor back-end em formação com foco em lógica, automação e APIs. Atualmente curso o 5º semestre de Sistemas de Informação na FALS e estou em busca do meu primeiro estágio na área de tecnologia.**
 
-Sou Rafael Maia, desenvolvedor back-end em formação com foco em lógica, automação e APIs. Atualmente curso o 5º semestre de Sistemas de Informação na FALS e estou em busca do meu primeiro estágio na área de tecnologia.
+**Tenho experiência prática com Python e Java, aplico conceitos de banco de dados relacional (MySQL/PostgreSQL) e estou aprendendo boas práticas com Docker e versionamento Git.**
 
-Tenho experiência prática com Python e Java, aplico conceitos de banco de dados relacional (MySQL/PostgreSQL) e estou aprendendo boas práticas com Docker e versionamento Git.
-
-Sou movido pela ideia de que código existe para resolver problemas reais — e é isso que me guia em cada projeto.
+**Sou movido pela ideia de que código existe para resolver problemas reais — e é isso que me guia em cada projeto.**
  
-```
-
 
 
 ## ⚡ Em Números
