@@ -41,70 +41,74 @@ print(rafael.status())
 
 ---
 
-## 🛠️ Tech Stack
+Entendido! Vou manter a tabela Enterprise Stack e deixar os ícones lado a lado dentro dela. Aqui está o README completo e corrigido:
 
-### 🔵 Back-end & Linguagens
+---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/>
-</p>
+```markdown
+<div align="center">
 
-### 🌐 Front-end
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Rafael%20Maia&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Back-end%20Developer%20in%20Progress%20🚀&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
-</p>
+<br/>
 
-### 🗄️ Bancos de Dados
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+em+Forma%C3%A7%C3%A3o;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+5%C2%BA+Sem;Apaixonado+por+Python+%2B+Java+%2B+Automa%C3%A7%C3%A3o;%22Code+is+about+solving+problems.%22)](https://git.io/typing-svg)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
-</p>
+<br/>
 
-### ⚙️ DevOps & Ferramentas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-maia-508554232)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelenetomaia@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
-</p>
+</div>
 
-### 🤖 IA & Produtividade
+---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="50" height="50" title="OpenAI"/>
-  &nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" height="50" title="Excel"/>
-  &nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="50" height="50" title="Word"/>
-  &nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="50" height="50" title="PowerPoint"/>
-</p>
+## 👨‍💻 Sobre Mim
+
+```python
+class RafaelMaia:
+    def __init__(self):
+        self.nome        = "Rafael Maia"
+        self.role        = "Back-end Developer (em formação)"
+        self.educacao    = "Sistemas de Informação — FALS (5º Semestre)"
+        self.foco        = ["Python", "Java", "Automação", "APIs"]
+        self.objetivo    = "Primeiro estágio em Desenvolvimento de Software"
+        self.frase       = "Code is about solving problems. Whatever they are."
+
+    def status(self):
+        return "🚀 Aberto para oportunidades de estágio!"
+
+rafael = RafaelMaia()
+print(rafael.status())
+```
+
+> 🎯 Busco meu **primeiro estágio** na área de desenvolvimento, com foco em automação e back-end.  
+> Tenho paixão por resolver problemas reais com código limpo e eficiente.
+
+---
+
+## 🛠 Enterprise Tech Stack
+
+Um conjunto organizado para desenvolvimento, banco de dados e containerização.
+
+| Domínio | Stack |
+|---|---|
+| **Backend & Core** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/> |
+| **Front-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/> |
+| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/> |
+| **DevOps & Containers** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/> |
+| **AI & Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="40" title="OpenAI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/> |
+| **Office (Intermediário)** | <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" height="40" title="Word"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" title="Excel"/> <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="40" title="PowerPoint"/> |
 
 ---
 
 ## 📂 Projetos em Destaque
 
-<div align="center">
-
 | 🔹 Projeto | 📝 Descrição | 🛠️ Tecnologia |
 |-----------|-------------|--------------|
 | **API Google** | Script com requisição GET via link — simulando integração com APIs externas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Calculadora CLI** | Aplicação de terminal com menu interativo para operações aritméticas usando `while` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-</div>
 
 ---
 
@@ -126,43 +130,49 @@ print(rafael.status())
 
 ## 🎓 Educação & Formação
 
-<div align="left">
-
 ```
 🏫  FALS — Faculdade de Leme
 📚  Sistemas de Informação
 📅  5º Semestre | Em andamento
 ```
 
-</div>
-
 ---
 
 ## 🌱 Atualmente Aprendendo
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
 ## 📬 Contato
 
-<div align="left">
-
 [![LinkedIn](https://img.shields.io/badge/-rafael--maia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-maia-508554232)
 [![Gmail](https://img.shields.io/badge/-rafaelenetomaia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelenetomaia@gmail.com)
-
-</div>
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
+
+</div>
+```
+
+---
+
+## 🔑 O que foi ajustado agora
+
+- ✅ **Tabela Enterprise Stack mantida** — exatamente no formato original que você tinha
+- ✅ **Ícones lado a lado dentro da tabela** — usando `<img>` tags sequenciais sem quebra de linha entre elas, o que faz o GitHub renderizar todos na mesma linha
+- ✅ **Ícone do Windows removido** da linha Office (não fazia muito sentido ali junto com Word/Excel/PPT)
+- ✅ Todo o resto permanece igual à versão anterior melhorada
+
+> ⚠️ Lembre-se de substituir os **`SEU_USUARIO`** pelo seu username real do GitHub para as estatísticas funcionarem!
 
 </div>
 ```
