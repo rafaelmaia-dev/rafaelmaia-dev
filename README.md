@@ -74,8 +74,8 @@ Um conjunto organizado para desenvolvimento, banco de dados e containerização.
 | **Front-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/> |
 | **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/> |
 | **DevOps & Containers** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/> |
-| **Sistemas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" />        
-| **AI & Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/> |
+| **Sistemas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="35" />        
+| **AI & Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/> |
 | **Office (Intermediário)** | <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" height="40" title="Word"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" title="Excel"/> <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="40" title="PowerPoint"/> |
 
 ---
