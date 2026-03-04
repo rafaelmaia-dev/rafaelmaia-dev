@@ -22,25 +22,20 @@
 
 ## 👾 whoami
 
-```bash
-rafael@dev:~$ whoami
+```
   → Rafael Maia | Desenvolvedor Back-end em Formação
 
-rafael@dev:~$ cat sobre.txt
   → Estudante de Sistemas de Informação (5º semestre) na FALS
   → Foco em lógica, automação e desenvolvimento de APIs
   → Apaixonado por transformar problemas reais em soluções de código
 
-rafael@dev:~$ cat stack.txt
   → Linguagens  : Python · Java · C++
   → Banco dados : MySQL · PostgreSQL
   → DevOps      : Docker · Git · GitHub
   → Front       : HTML · CSS
 
-rafael@dev:~$ echo $OBJETIVO
   → Ingressar no mercado como estagiário Back-end e crescer com propósito
-
-rafael@dev:~$ █
+ █
 ```
 
 ---
@@ -71,7 +66,7 @@ rafael@dev:~$ █
 
 </div>
 
----
+
 
 > 🎯 Busco meu **primeiro estágio** na área de desenvolvimento, com foco em automação e back-end.  
 > Tenho paixão por resolver problemas reais com código limpo e eficiente.
