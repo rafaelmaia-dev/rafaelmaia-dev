@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 > 🎯 Busco meu **primeiro estágio** na área de desenvolvimento, com foco em automação e back-end.  
 > Tenho paixão por resolver problemas reais com código limpo e eficiente.
 
