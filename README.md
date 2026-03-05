@@ -22,28 +22,13 @@
 
 ---
 
-## 👾 whoami
+**💡 Quem sou eu?**
+**Sou Rafael Maia, desenvolvedor back-end em formação com foco em lógica, automação e APIs. Atualmente curso o 5º semestre de Sistemas de Informação na FALS e estou em busca do meu primeiro estágio na área de tecnologia.**
 
-```bash
-rafael@dev:~$ whoami
-  → Rafael Maia | Desenvolvedor Back-end em Formação
+**Tenho experiência prática com Python e Java, aplico conceitos de banco de dados relacional (MySQL/PostgreSQL) e estou aprendendo boas práticas com Docker e versionamento Git.**
 
-rafael@dev:~$ cat sobre.txt
-  → Estudante de Sistemas de Informação (5º semestre) na FALS
-  → Foco em lógica, automação e desenvolvimento de APIs
-  → Apaixonado por transformar problemas reais em soluções de código
+**Sou movido pela ideia de que código existe para resolver problemas reais — e é isso que me guia em cada projeto.**
 
-rafael@dev:~$ cat stack.txt
-  → Linguagens  : Python · Java · C++
-  → Banco dados : MySQL · PostgreSQL
-  → DevOps      : Docker · Git · GitHub
-  → Front       : HTML · CSS
-
-rafael@dev:~$ echo $OBJETIVO
-  → Ingressar no mercado como estagiário Back-end e crescer com propósito
-
-rafael@dev:~$ █
-```
 
 ---
 
