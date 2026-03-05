@@ -22,6 +22,7 @@
 
 
 
+
 **💡 Quem sou eu?**
 **Sou Rafael Maia, desenvolvedor back-end em formação com foco em lógica, automação e APIs. Atualmente curso o 5º semestre de Sistemas de Informação na FALS e estou em busca do meu primeiro estágio na área de tecnologia.**
 
@@ -57,7 +58,7 @@
 
 </div>
 
----
+
 
 > 🎯 Busco meu **primeiro estágio** na área de desenvolvimento, com foco em automação e back-end.  
 > Tenho paixão por resolver problemas reais com código limpo e eficiente.
