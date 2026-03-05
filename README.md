@@ -82,7 +82,7 @@ Um conjunto organizado para desenvolvimento, banco de dados e containerização.
 | 🔹 Projeto | 📝 Descrição | 🛠️ Tecnologia |
 |-----------|-------------|--------------|
 | **API Google** | Script com requisição GET via link — simulando integração com APIs externas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Calculadora CLI** | Aplicação de terminal com menu interativo para operações aritméticas usando `while` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Calculadora** | Aplicação de terminal com menu interativo para operações aritméticas usando `while` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
