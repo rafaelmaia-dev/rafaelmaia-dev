@@ -29,8 +29,7 @@
 
 **Sou movido pela ideia de que código existe para resolver problemas reais — e é isso que me guia em cada projeto.**
 
-
-
+<br><br>
 
 ## ⚡ Em Números
 
