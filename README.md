@@ -126,9 +126,8 @@ Um conjunto organizado para desenvolvimento, banco de dados e containerização.
 
 | 🔹 Projeto | 📝 Descrição | 🛠️ Tecnologia |
 |-----------|-------------|--------------|
-| **API Google** | Script com requisição GET via link — simulando integração com APIs externas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-link: https://github.com/rafaelmaia-dev/api-google|
-| **Calculadora** | Aplicação de terminal com menu interativo para operações aritméticas usando `while` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**API Google**] (https://github.com/rafaelmaia-dev/api-google) | Script com requisição GET via link — simulando integração com APIs externas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Calculadora**] (https://github.com/rafaelmaia-dev/calculadora-while) | Aplicação de terminal com menu interativo para operações aritméticas usando `while` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
