@@ -82,44 +82,91 @@ flowchart LR
 
 ## Stack
 
-| Camada | Ferramentas |
-|---|---|
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-659AD2?style=flat-square&logo=c&logoColor=white) |
-| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=white) |
-| **Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-3B3F46?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **Sistemas e redes** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square) ![VPN](https://img.shields.io/badge/VPN-4F46E5?style=flat-square) ![Redes de computadores](https://img.shields.io/badge/Redes%20de%20computadores-4F46E5?style=flat-square) |
-| **Testes** | ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
-| **Ferramentas de IA** | ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=flat-square&logo=githubcopilot&logoColor=white) |
+Do app até a rede: as camadas por onde o meu código passa.
 
-Aprofundando agora: SQLAlchemy assíncrono e Alembic, testes com Pytest e CI/CD com GitHub Actions.
+```mermaid
+flowchart TB
+    subgraph L1["APLICAÇÃO"]
+        direction LR
+        A1["Python"]
+        A2["FastAPI"]
+        A3["Django"]
+        A4["C"]
+    end
+    subgraph L2["DADOS"]
+        direction LR
+        B1["PostgreSQL"]
+        B2["MySQL"]
+    end
+    subgraph L3["QUALIDADE E ENTREGA"]
+        direction LR
+        C1["Pytest"]
+        C2["Docker"]
+        C3["Git e GitHub"]
+        C4["GitHub Actions"]
+    end
+    subgraph L4["SISTEMAS E REDES"]
+        direction LR
+        D1["Linux"]
+        D2["VPN"]
+        D3["Wireshark"]
+        D4["Redes"]
+    end
+    A1 ~~~ A2 ~~~ A3 ~~~ A4
+    B1 ~~~ B2
+    C1 ~~~ C2 ~~~ C3 ~~~ C4
+    D1 ~~~ D2 ~~~ D3 ~~~ D4
+    L1 ~~~ L2
+    L2 ~~~ L3
+    L3 ~~~ L4
+    classDef a fill:#7C3AED,stroke:#A855F7,color:#fff,stroke-width:1px
+    classDef d fill:#6366F1,stroke:#818CF8,color:#fff,stroke-width:1px
+    classDef o fill:#4F46E5,stroke:#6366F1,color:#fff,stroke-width:1px
+    classDef i fill:#3730A3,stroke:#4F46E5,color:#fff,stroke-width:1px
+    class A1,A2,A3,A4 a
+    class B1,B2 d
+    class C1,C2,C3,C4 o
+    class D1,D2,D3,D4 i
+    style L1 fill:#1E1B4B,stroke:#7C3AED,stroke-width:2px,color:#C4B5FD
+    style L2 fill:#1E1B4B,stroke:#6366F1,stroke-width:2px,color:#C7D2FE
+    style L3 fill:#1E1B4B,stroke:#4F46E5,stroke-width:2px,color:#C7D2FE
+    style L4 fill:#1E1B4B,stroke:#3730A3,stroke-width:2px,color:#C7D2FE
+```
+
+Desenvolvo com apoio do **Antigravity** e do **GitHub Copilot**.
+
+## Aprofundando agora
+
+- [x] Curso de FastAPI: APIs Modernas e Assíncronas com Python (nov/2026)
+- [ ] SQLAlchemy assíncrono e Alembic
+- [ ] Testes automatizados e de regressão com Pytest
+- [ ] CI/CD com GitHub Actions
+- [ ] Concluir o pipeline principal do AgentWire
 
 ## Outros projetos
 
-| Projeto | O que faz | Tecnologia |
-|---|---|---|
-| [**API Google**](https://github.com/rafaelmaia-dev/api-google) | Script com requisição GET via link, simulando a integração com APIs externas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Calculadora**](https://github.com/rafaelmaia-dev/calculadora-while) | Aplicação de terminal com menu interativo para operações aritméticas, usando `while` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🔌 **API Google** | 🧮 **Calculadora** |
+|:---|:---|
+| Script em Python que faz requisições HTTP (GET) para simular o consumo e o tratamento de respostas de APIs externas.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br><br>**Conceitos:** REST, HTTP e respostas de APIs<br><br>[Ver no GitHub →](https://github.com/rafaelmaia-dev/api-google) | Aplicação de terminal com menu interativo para operações matemáticas, com laços `while` para validação e controle de fluxo.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br><br>**Conceitos:** lógica de programação e validação de entrada<br><br>[Ver no GitHub →](https://github.com/rafaelmaia-dev/calculadora-while) |
 
 ## Formação
 
-<details>
-<summary><b>Faculdade e cursos</b></summary>
-
-<br/>
-
-- **FALS** (Faculdade do Litoral Sul Paulista): Sistemas de Informação, 6º semestre, conclusão em dez/2027
-- **FastAPI: APIs Modernas e Assíncronas com Python**: Udemy, Geek University, 12,5 horas (concluído em nov/2026)
-- **Redes de Computadores com Wireshark** e **Git e GitHub**: Udemy
-- **Inglês**: CNA Master in English
-
-</details>
+| Formação | Onde | Situação |
+|:---|:---|:---|
+| **Sistemas de Informação** | FALS · Faculdade do Litoral Sul Paulista | ![em andamento](https://img.shields.io/badge/em%20andamento-F59E0B?style=flat-square) 6º semestre · dez/2027 |
+| **FastAPI: APIs Modernas e Assíncronas com Python** | Udemy · Geek University · 12,5 h | ![concluído](https://img.shields.io/badge/conclu%C3%ADdo-2ea043?style=flat-square) nov/2026 |
+| **Redes de Computadores com Wireshark** | Udemy | curso extra |
+| **Git e GitHub** | Udemy | curso extra |
+| **Inglês** | CNA Master in English | curso de idioma |
 
 ## Contato
 
-Recrutadores e tech leads: o caminho mais rápido é o [**LinkedIn**](https://www.linkedin.com/in/rafael-maia-508554232). Converso por lá sobre back-end, infra e sobre o AgentWire.
+> [!TIP]
+> O jeito mais rápido de falar comigo é o LinkedIn. Se você é recrutador ou tech lead, me chame para conversar sobre vagas de back-end, infra ou sobre o AgentWire.
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-maia-508554232) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelmaia-dev)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer" width="100%"/>
 
