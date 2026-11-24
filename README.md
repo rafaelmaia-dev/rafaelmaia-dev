@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" alt="Rafael Maia" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:5B21B6,100:06B6D4&height=230&section=header&text=Rafael%20Maia&fontSize=78&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=Back-end%20que%20sabe%20onde%20o%20c%C3%B3digo%20roda&descAlignY=60&descSize=22&descColor=BAE6FD" />
+<img width="100%" alt="Rafael Maia — Back-end que sabe onde o código roda" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:5B21B6,100:06B6D4&height=225&section=header&text=Rafael%20Maia&fontSize=76&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=Back-end%20que%20sabe%20onde%20o%20c%C3%B3digo%20roda&descAlignY=61&descSize=21&descColor=BAE6FD" />
 
 <a href="https://github.com/rafaelmaia-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=680&lines=Do+cabo+de+rede+ao+c%C3%B3digo+back-end;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;Construindo+o+AgentWire+(pipeline+determin%C3%ADstico+de+IA);Aberto+a+est%C3%A1gio+ou+vaga+j%C3%BAnior+em+back-end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Do+cabo+de+rede+ao+c%C3%B3digo+back-end;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;Construindo+o+AgentWire+%E2%80%94+pipeline+de+IA+audit%C3%A1vel;Aberto+a+est%C3%A1gio+ou+vaga+j%C3%BAnior+em+back-end" alt="Resumo animado de Rafael Maia" />
 </a>
 
 <br/>
 
-[https://img.shields.io/badge/status-aberto%20a%20est%C3%A1gio%20ou%20j%C3%BAnior-22C55E?style=for-the-badge&labelColor=0F172A]
-[https://img.shields.io/badge/foco-Back--end%20%7C%20APIs%20%7C%20Seguran%C3%A7a-7C3AED?style=for-the-badge&labelColor=0F172A]
-[https://img.shields.io/badge/Brasil-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F172A]
+[https://img.shields.io/badge/status-aberto%20a%20est%C3%A1gio%20ou%20j%C3%BAnior-22C55E?style=flat-square&labelColor=0F172A]
+[https://img.shields.io/badge/foco-Back--end%20%C2%B7%20APIs%20%C2%B7%20Seguran%C3%A7a-7C3AED?style=flat-square&labelColor=0F172A]
+[https://img.shields.io/badge/base-Brasil-06B6D4?style=flat-square&labelColor=0F172A]
 
 <br/>
 
@@ -26,39 +26,39 @@
 
 <table>
 <tr>
-<td width="54%" valign="top">
+<td width="55%" valign="top">
 
 ### Do cabo ao código
 
-Antes de subir meu primeiro endpoint, eu já estava na linha de frente vendo **onde o software é instalado, em que rede ele roda e o que acontece quando algo cai**.
+Quem já configurou VPN, analisou pacote no Wireshark e diagnosticou queda em produção escreve back-end pensando em **rede, falha e deploy** — não só no que funciona em `localhost`.
 
 - **Hoje:** Auxiliar de Instalação na **Procfit**, no time de instalações de PDV, pré-venda e VPNs.
-- **Antes:** Estagiário de Infraestrutura no **Instituto Almai** (redes, suporte, VoIP e sistemas).
+- **Antes:** Estagiário de Infraestrutura no **Instituto Almai** (redes, suporte de TI e sistemas).
 - **Formação:** Sistemas de Informação na **FALS** (6º semestre · previsão dez/2027).
-- **Direção:** Desenvolvimento **Back-end** com foco em APIs, bancos relacionais, containers e segurança.
-
-> [!IMPORTANT]
-> **Buscando oportunidade:** estágio ou vaga júnior em desenvolvimento back-end.
+- **Foco:** Desenvolvimento **Back-end** com Python, APIs assíncronas, bancos relacionais, Docker e segurança.
 
 </td>
-<td width="46%" valign="top">
+<td width="45%" valign="top">
 
 ```bash
 $ systemctl status rafael.service
 
-● rafael.service - Back-end Dev
-   Loaded: FALS · SI (6º sem.)
-   Active: active (running)
-     Role: Procfit · PDV & VPNs
-    Focus: APIs · Dados · Segurança
-    Build: AgentWire (Telegram Bot)
-       OS: Zorin OS · JetBrains Mono
-    Games: Resident Evil 4 Remake
+● rafael.service — Back-end Dev
+   Loaded:   FALS · SI (6º sem.)
+   Active:   active (running)
+   Role:     Procfit · PDV & VPNs
+   Focus:    APIs · Dados · Segurança
+   Build:    AgentWire (Telegram Bot)
+   OS:       Zorin OS · JetBrains Mono
+   Off-duty: Resident Evil 4 Remake
 ```
 
 </td>
 </tr>
 </table>
+
+> [!IMPORTANT]
+> **Aberto a oportunidades:** busco estágio ou vaga júnior em desenvolvimento back-end.
 
 <br/>
 
@@ -68,24 +68,24 @@ $ systemctl status rafael.service
 
 [https://img.shields.io/badge/status-em%20desenvolvimento-F59E0B?style=flat-square&labelColor=0F172A]
 [https://img.shields.io/github/last-commit/rafaelmaia-dev/bot_noticias_ia?style=flat-square&label=%C3%BAltimo%20commit&labelColor=0F172A&color=06B6D4]
-[https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white]
-[https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white]
-[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white]
+[https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0F172A]
+[https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0F172A]
+[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0F172A]
 [[https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev/bot_noticias_ia)
 
-**O problema:** acompanhar lançamentos e mudanças de agentes de IA espalhados em blogs, repositórios e redes sociais consome tempo demais. O **AgentWire** coleta, deduplica, resume e entrega direto no Telegram com link da fonte original — pronto para rodar **local/self-hosted**.
+**O problema:** atualizações de agentes de IA saem espalhadas em blogs, repositórios e redes sociais, e acompanhar tudo consome tempo demais. O **AgentWire** coleta, deduplica, resume e entrega direto no Telegram com link da fonte original — pronto para rodar **local/self-hosted**.
 
 ```mermaid
 flowchart LR
-    subgraph IN["🌐 Fontes"]
+    subgraph IN["1 · FONTES"]
         A["RSS · GitHub<br/>HN · Hugging Face"]
     end
-    subgraph PIPE["⚙️ Pipeline Determinístico"]
+    subgraph PIPE["2 · PIPELINE DETERMINÍSTICO"]
         B["Parser +<br/>Deduplicação"]
         C[("PostgreSQL<br/>SQLAlchemy Async")]
         D["Resumo<br/>Groq API"]
     end
-    subgraph OUT["📡 Entrega & API"]
+    subgraph OUT["3 · ENTREGA E API"]
         E["Telegram Bot"]
         F["API REST<br/>FastAPI"]
     end
@@ -107,10 +107,10 @@ flowchart LR
 
 | Pilar de Engenharia | Decisão Aplicada |
 |:---|:---|
-| 🧠 **Determinismo acima de hype** | Não é um agente autônomo: é um pipeline determinístico e auditável *sobre* agentes, usando LLM (`Groq API`) só para resumir. |
-| 🧩 **Desacoplamento real** | **API REST (`FastAPI`)** e **worker (`APScheduler`)** separados, compartilhando o mesmo **PostgreSQL**. |
-| 🔒 **Self-hosted sem dor de cabeça** | Integração planejada com Hugging Face via polling (Hub API + RSS), descartando webhooks públicos. |
-| 🐳 **Qualidade e portabilidade** | Empacotado em **Docker** com testes automatizados e de regressão em evolução. |
+| 🧠 **Determinismo acima de hype** | Escolhido de propósito no lugar de um agente autônomo: cada etapa tem entrada e saída definidas, e o LLM (`Groq API`) entra só para resumir. |
+| 🧩 **Desacoplamento real** | **API REST (`FastAPI`)** e **worker (`APScheduler`)** separados sobre o mesmo **PostgreSQL** (`SQLAlchemy Async`). |
+| 🔒 **Self-hosted sem expor porta** | Integração planejada com Hugging Face via polling (Hub API + RSS do blog), descartando webhooks públicos. |
+| 🐳 **Qualidade e reprodutibilidade** | Empacotado em **Docker** para rodar localmente, com testes automatizados e de regressão em evolução. |
 
 <br/>
 
@@ -121,7 +121,7 @@ flowchart LR
 <td width="50%" valign="top">
 
 ### 🔌 [API Google](https://github.com/rafaelmaia-dev/api-google)
-Script em Python que realiza requisições HTTP (`GET`) para exercitar consumo, parsing e tratamento de respostas de APIs externas.
+Script em Python que executa requisições HTTP (`GET`) para exercitar consumo, parsing e tratamento de respostas de APIs externas.
 
 [https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white]
 [https://img.shields.io/badge/HTTP%20%26%20REST-7C3AED?style=flat-square]
@@ -132,7 +132,7 @@ Script em Python que realiza requisições HTTP (`GET`) para exercitar consumo, 
 <td width="50%" valign="top">
 
 ### 🧮 [Calculadora CLI + CI/CD](https://github.com/rafaelmaia-dev/calculadora-while)
-Aplicação interativa de terminal em Python com laços `while` para validação de entrada, controle de fluxo e automação de CI/CD.
+Aplicação interativa de terminal em Python com laços `while` para validação de entrada, controle de fluxo e pipeline de CI/CD.
 
 [https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white]
 [https://img.shields.io/badge/CI%2FCD-06B6D4?style=flat-square&logo=githubactions&logoColor=white]
@@ -144,22 +144,22 @@ Aplicação interativa de terminal em Python com laços `while` para validação
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Chatbot de Telegram (Caso Técnico Nola)
-Fluxo automatizado integrando **N8N**, **Groq** e **Google Sheets** para atendimento e processamento de mensagens via Telegram.
+### 🤖 Chatbot de Telegram · Caso Técnico Nola
+Automação ponta a ponta integrando **N8N**, **Groq API** e **Google Sheets** para atendimento e processamento de mensagens no Telegram.
 
+[https://img.shields.io/badge/tipo-caso%20t%C3%A9cnico-8B5CF6?style=flat-square&labelColor=0F172A]
 [https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white]
-[https://img.shields.io/badge/Groq%20API-F59E0B?style=flat-square]
 [https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white]
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Infra, Redes & Automações
-Experiência prática com **VPNs**, **Wireshark**, **VoIP (Yeastar/Linkus)**, **SharePoint**, **TOTVS RH**, além de estudos com integração **ClickUp–Obsidian** e projeto acadêmico em **Java**.
+### 🌐 Operação de TI, Redes & Estudos
+Vivência prática com **VPNs**, **Wireshark**, **VoIP (Yeastar/Linkus)**, **SharePoint** e **TOTVS RH**, além de projeto acadêmico em **Java** e automação em andamento (**ClickUp–Obsidian**).
 
-[https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black]
+[https://img.shields.io/badge/tipo-infra%20%26%20estudos-06B6D4?style=flat-square&labelColor=0F172A]
 [https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white]
-[https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white]
+[https://img.shields.io/badge/Java-ED8B00?style=flat-square]
 
 </td>
 </tr>
@@ -172,7 +172,7 @@ Experiência prática com **VPNs**, **Wireshark**, **VoIP (Yeastar/Linkus)**, **
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,c,postgres,mysql,docker,linux,git,github,githubactions,vscode,obsidian&theme=dark&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,c,postgres,mysql,docker,linux,ubuntu,bash,git,github,githubactions,vscode&theme=dark&perline=7" alt="Arsenal Tecnológico de Rafael Maia" />
 </a>
 
 </div>
@@ -181,29 +181,29 @@ Experiência prática com **VPNs**, **Wireshark**, **VoIP (Yeastar/Linkus)**, **
 
 ```mermaid
 flowchart TB
-    subgraph L1["🟣 APLICAÇÃO & APIs"]
+    subgraph L1["APLICAÇÃO & APIs"]
         direction LR
         A1["Python"]
         A2["FastAPI"]
         A3["Django"]
         A4["C"]
     end
-    subgraph L2["🔵 DADOS & PERSISTÊNCIA"]
+    subgraph L2["DADOS & PERSISTÊNCIA"]
         direction LR
         B1["PostgreSQL"]
         B2["MySQL"]
         B3["SQLAlchemy Async"]
     end
-    subgraph L3["🩵 QUALIDADE, CI/CD & SEGURANÇA"]
+    subgraph L3["QUALIDADE, CI/CD & SEGURANÇA"]
         direction LR
         C1["Pytest"]
         C2["Docker"]
         C3["GitHub Actions"]
         C4["JWT · OAuth2 · Trivy"]
     end
-    subgraph L4["🟢 SISTEMAS & REDES"]
+    subgraph L4["SISTEMAS & REDES"]
         direction LR
-        D1["Linux (Zorin/Ubuntu)"]
+        D1["Linux (Zorin / Ubuntu)"]
         D2["VPN"]
         D3["Wireshark"]
         D4["TCP/IP · DNS · DHCP"]
@@ -238,7 +238,7 @@ flowchart TB
 ## 🗺️ Trajetória & Foco Atual
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'git0': '#06B6D4', 'git1': '#8B5CF6', 'commitLabelColor': '#F8FAFC', 'commitLabelBackground': '#0F172A'}, 'gitGraph': {'showBranches': false, 'rotateCommitLabel': true}}}%%
+%%{init: {'gitGraph': {'showBranches': false, 'rotateCommitLabel': true}}}%%
 gitGraph
     commit id: "FALS · Sistemas de Informação"
     commit id: "Instituto Almai · Infra e Redes"
@@ -265,8 +265,8 @@ gitGraph
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelmaia-dev&show_icons=true&bg_color=0F172A&title_color=A78BFA&icon_color=38BDF8&text_color=E2E8F0&border_color=312E81&border_radius=10&hide_border=false" alt="GitHub Stats de Rafael Maia" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmaia-dev&layout=compact&bg_color=0F172A&title_color=A78BFA&text_color=E2E8F0&border_color=312E81&border_radius=10&hide_border=false" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelmaia-dev&show_icons=true&locale=pt-br&bg_color=0F172A&title_color=A78BFA&icon_color=38BDF8&text_color=E2E8F0&border_color=312E81&border_radius=10&hide_border=false" alt="Estatísticas do GitHub de Rafael Maia" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmaia-dev&layout=compact&langs_count=6&locale=pt-br&bg_color=0F172A&title_color=A78BFA&text_color=E2E8F0&border_color=312E81&border_radius=10&hide_border=false" alt="Linguagens mais usadas por Rafael Maia" />
 
 </div>
 
@@ -287,7 +287,7 @@ gitGraph
 ## 🤝 Vamos conversar!
 
 > [!TIP]
-> O jeito mais rápido de falar comigo é pelo **LinkedIn**. Se você é recrutador, tech lead ou dev querendo trocar ideia sobre **vagas de back-end, infraestrutura ou o AgentWire**, chama lá!
+> O jeito mais rápido de falar comigo é pelo **LinkedIn**. Se você é recrutador, tech lead ou dev querendo trocar ideia sobre **vagas de back-end, infraestrutura ou sobre o AgentWire**, só chamar lá.
 
 <div align="center">
 
