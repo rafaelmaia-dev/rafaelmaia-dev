@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Rafael Maia, desenvolvedor back-end que sabe onde o código roda" width="100%"/>
+<img width="100%" alt="Rafael Maia, desenvolvedor back-end" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rafael%20Maia&fontSize=72&fontColor=fff&fontAlignY=38&desc=Escrevo%20c%C3%B3digo%20que%20sabe%20onde%20vai%20rodar.&descAlignY=62&descSize=22&descColor=c0c0ff"/>
 
 <br/>
 
@@ -90,50 +90,50 @@ flowchart LR
   <tr>
     <td><b>Linguagens</b></td>
     <td>
-      <img src="assets/icons/python.svg" height="22" alt=""/> Python &nbsp;&nbsp;
-      <img src="assets/icons/c.svg" height="22" alt=""/> C
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/python/python-original.svg" height="22" alt=""/> Python &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/c/659AD2" height="22" alt=""/> C
     </td>
   </tr>
   <tr>
     <td><b>Frameworks</b></td>
     <td>
-      <img src="assets/icons/fastapi.svg" height="22" alt=""/> FastAPI &nbsp;&nbsp;
-      <img src="assets/icons/django.svg" height="22" alt=""/> Django
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/fastapi/fastapi-original.svg" height="22" alt=""/> FastAPI &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/django/44B78B" height="22" alt=""/> Django
     </td>
   </tr>
   <tr>
     <td><b>Dados</b></td>
     <td>
-      <img src="assets/icons/postgresql.svg" height="22" alt=""/> PostgreSQL &nbsp;&nbsp;
-      <img src="assets/icons/mysql.svg" height="22" alt=""/> MySQL
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" height="22" alt=""/> PostgreSQL &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/mysql/4DA3C9" height="22" alt=""/> MySQL
     </td>
   </tr>
   <tr>
     <td><b>DevOps</b></td>
     <td>
-      <img src="assets/icons/docker.svg" height="22" alt=""/> Docker &nbsp;&nbsp;
-      <img src="assets/icons/git.svg" height="22" alt=""/> Git &nbsp;&nbsp;
-      <img src="assets/icons/github.svg" height="22" alt=""/> GitHub &nbsp;&nbsp;
-      <img src="assets/icons/githubactions.svg" height="22" alt=""/> GitHub Actions
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" height="22" alt=""/> Docker &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" height="22" alt=""/> Git &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/github/9CA3AF" height="22" alt=""/> GitHub &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/githubactions/githubactions-original.svg" height="22" alt=""/> GitHub Actions
     </td>
   </tr>
   <tr>
     <td><b>Sistemas e redes</b></td>
     <td>
-      <img src="assets/icons/linux.svg" height="22" alt=""/> Linux &nbsp;&nbsp;
-      <img src="assets/icons/wireshark.svg" height="22" alt=""/> Wireshark &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/linux/FCC624" height="22" alt=""/> Linux &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="22" alt=""/> Wireshark &nbsp;&nbsp;
       VPN &nbsp;&nbsp; Redes de computadores
     </td>
   </tr>
   <tr>
     <td><b>Testes</b></td>
-    <td><img src="assets/icons/pytest.svg" height="22" alt=""/> Pytest</td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/pytest/pytest-original.svg" height="22" alt=""/> Pytest</td>
   </tr>
   <tr>
     <td><b>Ferramentas de IA</b></td>
     <td>
-      <img src="assets/icons/antigravity.svg" height="22" alt=""/> Antigravity &nbsp;&nbsp;
-      <img src="assets/icons/githubcopilot.svg" height="22" alt=""/> GitHub Copilot
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.101.0/icons/antigravity-color.svg" height="22" alt=""/> Antigravity &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/githubcopilot/A855F7" height="22" alt=""/> GitHub Copilot
     </td>
   </tr>
 </table>
