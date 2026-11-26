@@ -2,9 +2,7 @@
 
 <img width="100%" alt="Rafael Maia — Back-end que sabe onde o código roda" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:5B21B6,100:06B6D4&height=225&section=header&text=Rafael%20Maia&fontSize=76&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=Back-end%20que%20sabe%20onde%20o%20c%C3%B3digo%20roda&descAlignY=61&descSize=21&descColor=BAE6FD" />
 
-<a href="https://github.com/rafaelmaia-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Do+cabo+de+rede+ao+c%C3%B3digo+back-end;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;Construindo+o+AgentWire+%E2%80%94+pipeline+de+IA+audit%C3%A1vel;Aberto+a+est%C3%A1gio+ou+vaga+j%C3%BAnior+em+back-end" alt="Resumo animado de Rafael Maia" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Do+cabo+de+rede+ao+c%C3%B3digo+back-end;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;Construindo+o+AgentWire+%E2%80%94+pipeline+de+IA+audit%C3%A1vel;Aberto+a+est%C3%A1gio+ou+vaga+j%C3%BAnior+em+back-end" alt="Resumo animado de Rafael Maia" />
 
 <br/>
 
@@ -15,7 +13,7 @@
 <br/>
 
 [[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/rafael-maia-508554232)
-[[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev)
+[[https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev?tab=repositories)
 [[https://img.shields.io/badge/Projeto%20Destaque-AgentWire-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white]](https://github.com/rafaelmaia-dev/bot_noticias_ia)
 
 </div>
@@ -120,24 +118,22 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 [API Google](https://github.com/rafaelmaia-dev/api-google)
+### 🔌 API Google
 Script em Python que executa requisições HTTP (`GET`) para exercitar consumo, parsing e tratamento de respostas de APIs externas.
 
 [https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white]
 [https://img.shields.io/badge/HTTP%20%26%20REST-7C3AED?style=flat-square]
-
-👉 [**Explorar repositório**](https://github.com/rafaelmaia-dev/api-google)
+[[https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev/api-google)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧮 [Calculadora CLI + CI/CD](https://github.com/rafaelmaia-dev/calculadora-while)
+### 🧮 Calculadora CLI + CI/CD
 Aplicação interativa de terminal em Python com laços `while` para validação de entrada, controle de fluxo e pipeline de CI/CD.
 
 [https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white]
 [https://img.shields.io/badge/CI%2FCD-06B6D4?style=flat-square&logo=githubactions&logoColor=white]
-
-👉 [**Explorar repositório**](https://github.com/rafaelmaia-dev/calculadora-while)
+[[https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev/calculadora-while)
 
 </td>
 </tr>
@@ -171,9 +167,7 @@ Vivência prática com **VPNs**, **Wireshark**, **VoIP (Yeastar/Linkus)**, **Sha
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,c,postgres,mysql,docker,linux,ubuntu,bash,git,github,githubactions,vscode&theme=dark&perline=7" alt="Arsenal Tecnológico de Rafael Maia" />
-</a>
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,c,postgres,mysql,docker,linux,ubuntu,bash,git,github,githubactions,vscode&theme=dark&perline=7" alt="Arsenal Tecnológico de Rafael Maia" />
 
 </div>
 
@@ -292,7 +286,7 @@ gitGraph
 <div align="center">
 
 [[https://img.shields.io/badge/Chamar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/rafael-maia-508554232)
-[[https://img.shields.io/badge/Seguir%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev)
+[[https://img.shields.io/badge/Explorar%20Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev?tab=repositories)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:5B21B6,100:0F172A&height=120&section=footer" width="100%" />
 
