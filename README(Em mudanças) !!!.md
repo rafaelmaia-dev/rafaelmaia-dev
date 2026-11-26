@@ -1,20 +1,28 @@
 <div align="center">
 
-<img width="100%" alt="Rafael Maia — Back-end que sabe onde o código roda" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:5B21B6,100:06B6D4&height=225&section=header&text=Rafael%20Maia&fontSize=76&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=Back-end%20que%20sabe%20onde%20o%20c%C3%B3digo%20roda&descAlignY=61&descSize=21&descColor=BAE6FD" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Do+cabo+de+rede+ao+c%C3%B3digo+back-end;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;Construindo+o+AgentWire+%E2%80%94+pipeline+de+IA+audit%C3%A1vel;Aberto+a+est%C3%A1gio+ou+vaga+j%C3%BAnior+em+back-end" alt="Resumo animado de Rafael Maia" />
+<img width="100%" alt="Rafael Maia — Back-end que sabe onde o código roda" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:5B21B6,100:06B6D4&height=225&section=header&text=Rafael%20Maia&fontSize=76&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=Back-end%20que%20sabe%20onde%20o%20c%C3%B3digo%20roda&descAlignY=61&descSize=21&descColor=BAE6FD](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:5B21B6,100:06B6D4&height=225&section=header&text=Rafael%20Maia&fontSize=76&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=Back-end%20que%20sabe%20onde%20o%20c%C3%B3digo%20roda&descAlignY=61&descSize=21&descColor=BAE6FD)" />
 
 <br/>
 
-[https://img.shields.io/badge/status-aberto%20a%20est%C3%A1gio%20ou%20j%C3%BAnior-22C55E?style=flat-square&labelColor=0F172A]
-[https://img.shields.io/badge/foco-Back--end%20%C2%B7%20APIs%20%C2%B7%20Seguran%C3%A7a-7C3AED?style=flat-square&labelColor=0F172A]
-[https://img.shields.io/badge/base-Brasil-06B6D4?style=flat-square&labelColor=0F172A]
+<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Do+cabo+de+rede+ao+c%C3%B3digo+back-end;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;Construindo+o+AgentWire+%E2%80%94+pipeline+de+IA+audit%C3%A1vel;Aberto+a+est%C3%A1gio+ou+vaga+j%C3%BAnior+em+back-end](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Do+cabo+de+rede+ao+c%C3%B3digo+back-end;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;Construindo+o+AgentWire+%E2%80%94+pipeline+de+IA+audit%C3%A1vel;Aberto+a+est%C3%A1gio+ou+vaga+j%C3%BAnior+em+back-end)" alt="Resumo animado de Rafael Maia" />
 
-<br/>
+<br/><br/>
 
-[[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/rafael-maia-508554232)
-[[https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev?tab=repositories)
-[[https://img.shields.io/badge/Projeto%20Destaque-AgentWire-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white]](https://github.com/rafaelmaia-dev/bot_noticias_ia)
+<img src="[https://img.shields.io/badge/status-aberto%20a%20est%C3%A1gio%20ou%20j%C3%BAnior-22C55E?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/status-aberto%20a%20est%C3%A1gio%20ou%20j%C3%BAnior-22C55E?style=flat-square&labelColor=0F172A)" alt="Status" />
+<img src="[https://img.shields.io/badge/foco-Back--end%20%C2%B7%20APIs%20%C2%B7%20Seguran%C3%A7a-7C3AED?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/foco-Back--end%20%C2%B7%20APIs%20%C2%B7%20Seguran%C3%A7a-7C3AED?style=flat-square&labelColor=0F172A)" alt="Foco" />
+<img src="[https://img.shields.io/badge/base-Brasil-06B6D4?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/base-Brasil-06B6D4?style=flat-square&labelColor=0F172A)" alt="Local" />
+
+<br/><br/>
+
+<a href="[https://www.linkedin.com/in/rafael-maia-508554232](https://www.linkedin.com/in/rafael-maia-508554232)">
+  <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+</a>
+<a href="[https://github.com/rafaelmaia-dev?tab=repositories](https://github.com/rafaelmaia-dev?tab=repositories)">
+  <img src="[https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white)" alt="Repositórios" />
+</a>
+<a href="[https://github.com/rafaelmaia-dev/bot_noticias_ia](https://github.com/rafaelmaia-dev/bot_noticias_ia)">
+  <img src="[https://img.shields.io/badge/Projeto%20Destaque-AgentWire-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Projeto%20Destaque-AgentWire-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white)" alt="AgentWire" />
+</a>
 
 </div>
 
@@ -23,36 +31,32 @@
 ## ⚡ Sobre mim
 
 <table>
-<tr>
-<td width="55%" valign="top">
-
-### Do cabo ao código
-
-Quem já configurou VPN, analisou pacote no Wireshark e diagnosticou queda em produção escreve back-end pensando em **rede, falha e deploy** — não só no que funciona em `localhost`.
-
-- **Hoje:** Auxiliar de Instalação na **Procfit**, no time de instalações de PDV, pré-venda e VPNs.
-- **Antes:** Estagiário de Infraestrutura no **Instituto Almai** (redes, suporte de TI e sistemas).
-- **Formação:** Sistemas de Informação na **FALS** (6º semestre · previsão dez/2027).
-- **Foco:** Desenvolvimento **Back-end** com Python, APIs assíncronas, bancos relacionais, Docker e segurança.
-
-</td>
-<td width="45%" valign="top">
-
-```bash
-$ systemctl status rafael.service
+  <tr>
+    <td width="55%" valign="top">
+      <h3>Do cabo ao código</h3>
+      <p>
+        Quem já configurou VPN, analisou pacote no Wireshark e diagnosticou queda em produção escreve back-end pensando em <strong>rede, falha e deploy</strong> — não só no que funciona em <code>localhost</code>.
+      </p>
+      <ul>
+        <li><strong>Hoje:</strong> Auxiliar de Instalação na <strong>Procfit</strong> (instalações de PDV, pré-venda e VPNs).</li>
+        <li><strong>Antes:</strong> Estagiário de Infraestrutura no <strong>Instituto Almai</strong> (redes, suporte de TI e sistemas).</li>
+        <li><strong>Formação:</strong> Sistemas de Informação na <strong>FALS</strong> (6º semestre · previsão dez/2027).</li>
+        <li><strong>Foco:</strong> Desenvolvimento <strong>Back-end</strong> com Python, APIs assíncronas, bancos relacionais, Docker e segurança.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+<pre><code>$ systemctl status rafael.service
 
 ● rafael.service — Back-end Dev
    Loaded:   FALS · SI (6º sem.)
    Active:   active (running)
-   Role:     Procfit · PDV & VPNs
+   Role:     Procfit · PDV &amp; VPNs
    Focus:    APIs · Dados · Segurança
    Build:    AgentWire (Telegram Bot)
    OS:       Zorin OS · JetBrains Mono
-   Off-duty: Resident Evil 4 Remake
-```
-
-</td>
-</tr>
+   Off-duty: Resident Evil 4 Remake</code></pre>
+    </td>
+  </tr>
 </table>
 
 > [!IMPORTANT]
@@ -64,12 +68,16 @@ $ systemctl status rafael.service
 
 > **Bot no Telegram que mantém devs e vibe coders por dentro das novidades dos agentes de código** (Claude Code, Codex, DeepSeek, Anthropic, OpenAI e afins), cobrindo mudanças técnicas, financeiras e sociais.
 
-[https://img.shields.io/badge/status-em%20desenvolvimento-F59E0B?style=flat-square&labelColor=0F172A]
-[https://img.shields.io/github/last-commit/rafaelmaia-dev/bot_noticias_ia?style=flat-square&label=%C3%BAltimo%20commit&labelColor=0F172A&color=06B6D4]
-[https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0F172A]
-[https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0F172A]
-[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0F172A]
-[[https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev/bot_noticias_ia)
+<p>
+  <img src="[https://img.shields.io/badge/status-em%20desenvolvimento-F59E0B?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/status-em%20desenvolvimento-F59E0B?style=flat-square&labelColor=0F172A)" alt="Status" />
+  <img src="[https://img.shields.io/github/last-commit/rafaelmaia-dev/bot_noticias_ia?style=flat-square&label=%C3%BAltimo%20commit&labelColor=0F172A&color=06B6D4](https://img.shields.io/github/last-commit/rafaelmaia-dev/bot_noticias_ia?style=flat-square&label=%C3%BAltimo%20commit&labelColor=0F172A&color=06B6D4)" alt="Último commit" />
+  <img src="[https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0F172A](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0F172A)" alt="FastAPI" />
+  <img src="[https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0F172A](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0F172A)" alt="PostgreSQL" />
+  <img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0F172A](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0F172A)" alt="Docker" />
+  <a href="[https://github.com/rafaelmaia-dev/bot_noticias_ia](https://github.com/rafaelmaia-dev/bot_noticias_ia)">
+    <img src="[https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white)" alt="Ver Repositório" />
+  </a>
+</p>
 
 **O problema:** atualizações de agentes de IA saem espalhadas em blogs, repositórios e redes sociais, e acompanhar tudo consome tempo demais. O **AgentWire** coleta, deduplica, resume e entrega direto no Telegram com link da fonte original — pronto para rodar **local/self-hosted**.
 
@@ -115,50 +123,50 @@ flowchart LR
 ## 🛠️ Outros Projetos & Experiências Práticas
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔌 API Google
-Script em Python que executa requisições HTTP (`GET`) para exercitar consumo, parsing e tratamento de respostas de APIs externas.
-
-[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white]
-[https://img.shields.io/badge/HTTP%20%26%20REST-7C3AED?style=flat-square]
-[[https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev/api-google)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧮 Calculadora CLI + CI/CD
-Aplicação interativa de terminal em Python com laços `while` para validação de entrada, controle de fluxo e pipeline de CI/CD.
-
-[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white]
-[https://img.shields.io/badge/CI%2FCD-06B6D4?style=flat-square&logo=githubactions&logoColor=white]
-[[https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev/calculadora-while)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Chatbot de Telegram · Caso Técnico Nola
-Automação ponta a ponta integrando **N8N**, **Groq API** e **Google Sheets** para atendimento e processamento de mensagens no Telegram.
-
-[https://img.shields.io/badge/tipo-caso%20t%C3%A9cnico-8B5CF6?style=flat-square&labelColor=0F172A]
-[https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white]
-[https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white]
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Operação de TI, Redes & Estudos
-Vivência prática com **VPNs**, **Wireshark**, **VoIP (Yeastar/Linkus)**, **SharePoint** e **TOTVS RH**, além de projeto acadêmico em **Java** e automação em andamento (**ClickUp–Obsidian**).
-
-[https://img.shields.io/badge/tipo-infra%20%26%20estudos-06B6D4?style=flat-square&labelColor=0F172A]
-[https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white]
-[https://img.shields.io/badge/Java-ED8B00?style=flat-square]
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔌 API Google</h3>
+      <p>Script em Python que executa requisições HTTP (<code>GET</code>) para exercitar consumo, parsing e tratamento de respostas de APIs externas.</p>
+      <p>
+        <img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)" alt="Python" />
+        <img src="[https://img.shields.io/badge/HTTP%20%26%20REST-7C3AED?style=flat-square](https://img.shields.io/badge/HTTP%20%26%20REST-7C3AED?style=flat-square)" alt="REST" />
+        <a href="[https://github.com/rafaelmaia-dev/api-google](https://github.com/rafaelmaia-dev/api-google)">
+          <img src="[https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white)" alt="Ver Repositório" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧮 Calculadora CLI + CI/CD</h3>
+      <p>Aplicação interativa de terminal em Python com laços <code>while</code> para validação de entrada, controle de fluxo e pipeline de CI/CD.</p>
+      <p>
+        <img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)" alt="Python" />
+        <img src="[https://img.shields.io/badge/CI%2FCD-06B6D4?style=flat-square&logo=githubactions&logoColor=white](https://img.shields.io/badge/CI%2FCD-06B6D4?style=flat-square&logo=githubactions&logoColor=white)" alt="CI/CD" />
+        <a href="[https://github.com/rafaelmaia-dev/calculadora-while](https://github.com/rafaelmaia-dev/calculadora-while)">
+          <img src="[https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=flat-square&logo=github&logoColor=white)" alt="Ver Repositório" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Chatbot de Telegram · Caso Técnico Nola</h3>
+      <p>Automação ponta a ponta integrando <strong>N8N</strong>, <strong>Groq API</strong> e <strong>Google Sheets</strong> para atendimento e processamento de mensagens no Telegram.</p>
+      <p>
+        <img src="[https://img.shields.io/badge/tipo-caso%20t%C3%A9cnico-8B5CF6?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/tipo-caso%20t%C3%A9cnico-8B5CF6?style=flat-square&labelColor=0F172A)" alt="Caso Técnico" />
+        <img src="[https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)" alt="N8N" />
+        <img src="[https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)" alt="Telegram" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Operação de TI, Redes &amp; Estudos</h3>
+      <p>Vivência prática com <strong>VPNs</strong>, <strong>Wireshark</strong>, <strong>VoIP (Yeastar/Linkus)</strong>, <strong>SharePoint</strong> e <strong>TOTVS RH</strong>, além de projeto acadêmico em <strong>Java</strong> e automação em andamento (<strong>ClickUp–Obsidian</strong>).</p>
+      <p>
+        <img src="[https://img.shields.io/badge/tipo-infra%20%26%20estudos-06B6D4?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/tipo-infra%20%26%20estudos-06B6D4?style=flat-square&labelColor=0F172A)" alt="Experiência" />
+        <img src="[https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)" alt="Wireshark" />
+        <img src="[https://img.shields.io/badge/Java-ED8B00?style=flat-square](https://img.shields.io/badge/Java-ED8B00?style=flat-square)" alt="Java" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -166,9 +174,7 @@ Vivência prática com **VPNs**, **Wireshark**, **VoIP (Yeastar/Linkus)**, **Sha
 ## 🧰 Arsenal Tecnológico
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,django,c,postgres,mysql,docker,linux,ubuntu,bash,git,github,githubactions,vscode&theme=dark&perline=7" alt="Arsenal Tecnológico de Rafael Maia" />
-
+  <img src="[https://skillicons.dev/icons?i=py,fastapi,django,c,postgres,mysql,docker,linux,ubuntu,bash,git,github,githubactions,vscode&theme=dark&perline=7](https://skillicons.dev/icons?i=py,fastapi,django,c,postgres,mysql,docker,linux,ubuntu,bash,git,github,githubactions,vscode&theme=dark&perline=7)" alt="Arsenal Tecnológico de Rafael Maia" />
 </div>
 
 <br/>
@@ -258,10 +264,8 @@ gitGraph
 ## 📊 Atividade no GitHub
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelmaia-dev&show_icons=true&locale=pt-br&bg_color=0F172A&title_color=A78BFA&icon_color=38BDF8&text_color=E2E8F0&border_color=312E81&border_radius=10&hide_border=false" alt="Estatísticas do GitHub de Rafael Maia" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmaia-dev&layout=compact&langs_count=6&locale=pt-br&bg_color=0F172A&title_color=A78BFA&text_color=E2E8F0&border_color=312E81&border_radius=10&hide_border=false" alt="Linguagens mais usadas por Rafael Maia" />
-
+  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=rafaelmaia-dev&show_icons=true&locale=pt-br&bg_color=0F172A&title_color=A78BFA&icon_color=38BDF8&text_color=E2E8F0&border_color=312E81&border_radius=10&hide_border=false](https://github-readme-stats.vercel.app/api?username=rafaelmaia-dev&show_icons=true&locale=pt-br&bg_color=0F172A&title_color=A78BFA&icon_color=38BDF8&text_color=E2E8F0&border_color=312E81&border_radius=10&hide_border=false)" alt="Estatísticas do GitHub de Rafael Maia" />
+  <img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmaia-dev&layout=compact&langs_count=6&locale=pt-br&bg_color=0F172A&title_color=A78BFA&text_color=E2E8F0&border_color=312E81&border_radius=10&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmaia-dev&layout=compact&langs_count=6&locale=pt-br&bg_color=0F172A&title_color=A78BFA&text_color=E2E8F0&border_color=312E81&border_radius=10&hide_border=false)" alt="Linguagens mais usadas por Rafael Maia" />
 </div>
 
 <br/>
@@ -270,11 +274,11 @@ gitGraph
 
 | Formação | Instituição | Status |
 |:---|:---|:---|
-| **Sistemas de Informação** | FALS · Faculdade do Litoral Sul Paulista | [https://img.shields.io/badge/em%20andamento-F59E0B?style=flat-square&labelColor=0F172A] 6º sem. · dez/2027 |
-| **FastAPI: APIs Modernas e Assíncronas com Python** | Udemy · Geek University · 12,5 h | [https://img.shields.io/badge/conclu%C3%ADdo-22C55E?style=flat-square&labelColor=0F172A] nov/2026 |
-| **Redes de Computadores com Wireshark** | Udemy | [https://img.shields.io/badge/curso%20extra-06B6D4?style=flat-square&labelColor=0F172A] |
-| **Git e GitHub** | Udemy | [https://img.shields.io/badge/curso%20extra-7C3AED?style=flat-square&labelColor=0F172A] |
-| **Inglês** | CNA Master in English | [https://img.shields.io/badge/idioma-4F46E5?style=flat-square&labelColor=0F172A] |
+| **Sistemas de Informação** | FALS · Faculdade do Litoral Sul Paulista | [[https://img.shields.io/badge/em%20andamento-F59E0B?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/em%20andamento-F59E0B?style=flat-square&labelColor=0F172A)] 6º sem. · dez/2027 |
+| **FastAPI: APIs Modernas e Assíncronas com Python** | Udemy · Geek University · 12,5 h | [[https://img.shields.io/badge/conclu%C3%ADdo-22C55E?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/conclu%C3%ADdo-22C55E?style=flat-square&labelColor=0F172A)] nov/2026 |
+| **Redes de Computadores com Wireshark** | Udemy | [[https://img.shields.io/badge/curso%20extra-06B6D4?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/curso%20extra-06B6D4?style=flat-square&labelColor=0F172A)] |
+| **Git e GitHub** | Udemy | [[https://img.shields.io/badge/curso%20extra-7C3AED?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/curso%20extra-7C3AED?style=flat-square&labelColor=0F172A)] |
+| **Inglês** | CNA Master in English | [[https://img.shields.io/badge/idioma-4F46E5?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/idioma-4F46E5?style=flat-square&labelColor=0F172A)] |
 
 <br/>
 
@@ -285,9 +289,15 @@ gitGraph
 
 <div align="center">
 
-[[https://img.shields.io/badge/Chamar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/rafael-maia-508554232)
-[[https://img.shields.io/badge/Explorar%20Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white]](https://github.com/rafaelmaia-dev?tab=repositories)
+<a href="[https://www.linkedin.com/in/rafael-maia-508554232](https://www.linkedin.com/in/rafael-maia-508554232)">
+  <img src="[https://img.shields.io/badge/Chamar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Chamar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Chamar no LinkedIn" />
+</a>
+<a href="[https://github.com/rafaelmaia-dev?tab=repositories](https://github.com/rafaelmaia-dev?tab=repositories)">
+  <img src="[https://img.shields.io/badge/Explorar%20Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explorar%20Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white)" alt="Explorar Repositórios" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:5B21B6,100:0F172A&height=120&section=footer" width="100%" />
+<br/><br/>
+
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:5B21B6,100:0F172A&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:5B21B6,100:0F172A&height=120&section=footer)" width="100%" alt="Rodapé" />
 
 </div>
